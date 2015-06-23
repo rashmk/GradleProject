@@ -1,0 +1,12 @@
+/bin/
+/logfile.log
+/Screenshots/
+/test-output
+/TestData/
+/test-output
+/Gradle.iml
+/.idea/
+/*.bat
+/.gradle
+/build/
+
